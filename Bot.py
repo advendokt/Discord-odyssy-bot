@@ -234,4 +234,4 @@ async def gamble(ctx, amount: int):
     await ctx.send("Gambling logic goes here!")
 
         
-bot.run("MTE2MjM3ODc0MDk1Mzc4NDM5Mg.GKeeMW.aX7U9j2z3n0eTahRq-khKtTFia7iezSUbHgx0c")
+bot.run("")
